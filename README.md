@@ -33,7 +33,7 @@ QuantumSpace AI revolutionizes space exploration by marrying the power of quantu
 
 **Note:** The project name "QuanSAI" is a combination of "Quantum" and "Space AI," symbolizing the integration of quantum computing and artificial intelligence for space exploration.
 
-# Vision anda MMissio
+# Vision and Mission
 
 **Vision:**
 "Empowering the Future of Space Exploration through Quantum Intelligence and Innovation"
