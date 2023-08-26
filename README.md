@@ -7,7 +7,7 @@ Quantum Space AI
 2. [Vision and Mission](#vision-and-mission)
 3. [Problems We Hope To Solve](#problems-we-hope-to-solve) 
 4. [Our Technologies](#our-technologies)
-5. [Our Achievements](#our-achievments) 
+5. [Our Achievements](#our-achievements) 
 6. [Our Roadmap](#our-roadmap)
 7. 
 # Description 
