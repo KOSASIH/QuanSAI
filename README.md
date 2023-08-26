@@ -4,7 +4,7 @@ Quantum Space AI
 # Content 
 
 1. [Description](#description)
-2. [Vision anda Mission](#vision-and-mission)
+2. [Vision and Mission](#vision-and-mission)
 
 
 # Description 
