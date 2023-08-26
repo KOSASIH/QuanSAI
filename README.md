@@ -7,9 +7,8 @@ Quantum Space AI
 
 # Description 
 
-**Project Name: QuantumSpace AI (QuanSAI)**
+**QuantumSpace AI (QuanSAI)**
 
-**Description:**
 QuantumSpace AI (QuanSAI) is an avant-garde project that synergizes quantum computing and artificial intelligence to elevate the capabilities of spacecraft technology and space exploration. This project aims to harness the immense computational power of quantum computers to solve complex challenges inherent in space missions, coupled with AI-driven algorithms that provide advanced decision-making capabilities.
 
 **Features and Objectives:**
