@@ -1,3 +1,4 @@
+[![StackHawk](https://github.com/KOSASIH/QuanSAI/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/stackhawk.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/QuanSAI/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/codacy.yml)
 [![Lint Code Base](https://github.com/KOSASIH/QuanSAI/actions/workflows/super-linter.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/super-linter.yml)
 [![CodeQL](https://github.com/KOSASIH/QuanSAI/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/codeql.yml)
