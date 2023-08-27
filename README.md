@@ -1,3 +1,4 @@
+[![DeepSource](https://app.deepsource.com/gh/KOSASIH/QuanSAI.svg/?label=active+issues&show_trend=true&token=wzKLE_nvIgFgekzx-QqBuN8V)](https://app.deepsource.com/gh/KOSASIH/QuanSAI/?ref=repository-badge)
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/quansai/badge)](https://www.codefactor.io/repository/github/kosasih/quansai)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/QuanSAI/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/jekyll-gh-pages.yml)
 [![StackHawk](https://github.com/KOSASIH/QuanSAI/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/QuanSAI/actions/workflows/stackhawk.yml)
